@@ -21,8 +21,8 @@
 ### 📈 Estatísticas do GitHub:
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LukasMatheus&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasMatheus&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lukamth&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukamth&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
@@ -37,10 +37,12 @@
 
 ### 📫 Como me encontrar:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com)  
-✉️ Email: **lukas@example.com** _(troque pelo seu email real)_
+- 🌐 Site pessoal: [lukamth.github.io](https://lukamth.github.io)  
+- 🔗 LinkedIn: [Lucas Freitas](https://www.linkedin.com/in/lucas-freitas-8784b736b)  
+- ✉️ Email: lukasmatheus.17.06.2005@gmail.com
 
 ---
 
-<p align="center">Feito com 💙 por Lukas</p>
+<p align="center">Lukas</p>
+
 
