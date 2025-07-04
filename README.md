@@ -30,7 +30,7 @@
 ### 💬 Sobre mim:
 
 - 👨‍💻 Gosto de criar projetos visuais e funcionais com código  
-- 🚀 Busco me tornar um desenvolvedor front-end completo  
+- 🚀 Busco me tornar um desenvolvedor Full Stack  
 - ✍️ Sempre explorando e aprendendo algo novo
 
 ---
